@@ -1,1 +1,1 @@
-# waiter-app
+Waiter-App
